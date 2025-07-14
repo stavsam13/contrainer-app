@@ -1,1 +1,12 @@
+com/contrain/demo/config/KafkaConfig.class
+com/contrain/demo/config/SecurityConfig.class
+com/contrain/demo/kafka/KafkaProducer.class
+com/contrain/demo/events/NewRegistrationEvent.class
+com/contrain/demo/domain/customer/CustomerRepository.class
+com/contrain/demo/registraton/UserRegistrationCommand.class
+com/contrain/demo/domain/customer/Customer$CustomerBuilder.class
+com/contrain/demo/domain/customer/Customer.class
+com/contrain/demo/registraton/RegistrationController.class
+com/contrain/demo/registraton/NewRegistrationRequest.class
+com/contrain/demo/kafka/KafkaConsumer.class
 com/contrain/demo/GymcontainerApplication.class

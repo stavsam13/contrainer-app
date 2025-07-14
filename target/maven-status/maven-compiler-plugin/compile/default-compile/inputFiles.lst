@@ -1,1 +1,11 @@
 /Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/GymcontainerApplication.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/config/KafkaConfig.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/config/SecurityConfig.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/domain/customer/Customer.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/domain/customer/CustomerRepository.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/events/NewRegistrationEvent.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/kafka/KafkaConsumer.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/kafka/KafkaProducer.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/registraton/NewRegistrationRequest.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/registraton/RegistrationController.java
+/Users/stavrossamaras/Documents/GitHub/contrainer-app-1/src/main/java/com/contrain/demo/registraton/UserRegistrationCommand.java
